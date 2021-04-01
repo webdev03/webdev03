@@ -2,7 +2,6 @@
 
 I like coding
 - It's very fun
-- It's very fun
 
-Mario Kart is fun as well
-- Get banana peel
+Doing wakaquiz
+- Send ideas in Discussions or Issues please
