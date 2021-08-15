@@ -5,3 +5,10 @@ I like coding
 
 Doing wakaquiz
 - Send ideas in Discussions or Issues please
+
+What web framework to use
+I have no idea:
+- Svelte
+- React
+- Vue
+- Other?
