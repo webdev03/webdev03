@@ -6,6 +6,7 @@
 Talk to me on:
 * [GitHub](https://github.com/webdev03/webdev03/discussions)
 * [Scratch](https://scratch.mit.edu/users/god286)
+* or Discord only if I know you, ask for the tag on github if you want
 
 I made [scratchinfo](https://github.com/webdev03/scratchinfo/) for users of Scratch.
 
