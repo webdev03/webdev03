@@ -1,4 +1,4 @@
 # Hello!
-Welcome to my page on GitHub. I have lots of repositories and gists on my account.
+I'm **webdev03** and I like making stuff. Feel free to look around my profile if you want.
 
-<a href="https://octo-ring.com/p/webdev03/random">explore the octo ring</a>
+Maybe you would like to <a href="https://octo-ring.com/p/webdev03/random">explore the Octo Ring</a>?
